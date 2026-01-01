@@ -10,6 +10,12 @@ I build **full-stack web platforms, and automation systems** that help businesse
 
 ---
 
+📈 GitHub Stats
+
+<img width="1173" height="366" alt="image" src="https://github.com/user-attachments/assets/d8b37324-4a56-43fa-909a-012a85eb9de9" />
+
+---
+
 ## ✨ About Me  
 
 ```js
@@ -42,10 +48,7 @@ const daniel117622 = {
 
 ---
 
-📈 GitHub Stats
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=daniel117622&border_radius=1&card_width=595" alt="GitHub Streak" /></a>
----
 
 🛠️ Tech Stack & Tools
 
