@@ -2,10 +2,8 @@
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
 
 I’m **Daniel de la Cruz**, a **Software Engineer & Automation Expert**.  
-I build **AI-driven applications, full-stack web platforms, and automation systems** that help businesses save time and scale effortlessly.  
+I build **full-stack web platforms, and automation systems** that help businesses save time and scale effortlessly.  
 
-🔹 Founder of **[AIdaptics](https://github.com/daniel117622)** – an AI automation agency.  
-🔹 Experience with **AI, Web Dev, and Smart Automations** (Zapier, Make, n8n, GHL).  
 🔹 Passionate about **problem-solving, system design, and turning complex workflows into simple solutions**.  
 
 💡 My mission: *help businesses adapt smarter, faster, and with less effort using AI & automation.*  
