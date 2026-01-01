@@ -37,10 +37,10 @@ const daniel117622 = {
 
 **My Skills**
 
-- Web Development: React, Next.js, Angular, .NET, Tailwind, SQL, MongoDB
-- Automation & Workflows: n8n, Zapier, Make, GHL, ClickUp API, Discord API
+- Web Development: Angular, Jinja , .NET, Tailwind, SQL, MongoDB
+- Automation & Workflows: Discord API , Telegram API,  Github Actions
 - AI / Data: Computer Vision, OCR, Profiling, Optimization
-- DevOps & Infra: Docker, AWS, GCP, Redis, GitHub Actions
+- DevOps & Infra: Docker, AWS, GCP, Redis, Ansible
 
 ---
 
