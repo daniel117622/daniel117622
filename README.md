@@ -9,7 +9,6 @@ Hi there
 - Primary languages: JS, TS, Python  
 - Focus: active repos + long‑term maintenance  
 
-![Stats](https://github-readme-stats.vercel.app/api?username=daniel117622&include_all_commits=true)
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=daniel117622)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel117622&layout=compact)
+![Metrics](https://metrics.lecoq.io/daniel117622?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FHermosillo)
+
 ```
