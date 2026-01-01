@@ -34,6 +34,10 @@ const daniel117622 = {
     "AI CV Parsing API",
     "Next.js Newsletter System",
   ],
+ funFacts: [
+    "I love writing technical articles",
+    "I find legacy code and bug hunting fun"
+ ]
 };
 
 ```
