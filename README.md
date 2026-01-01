@@ -44,8 +44,8 @@ const daniel117622 = {
 
 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniel117622&theme=tokyonight" alt="GitHub streak" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=daniel117622)](https://git.io/streak-stats)
+
 </p><details>
   <summary>Even More Stats</summary>
   <p align="center">
