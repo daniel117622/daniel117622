@@ -46,13 +46,6 @@ const daniel117622 = {
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=daniel117622)](https://git.io/streak-stats)
 
-</p><details>
-  <summary>Even More Stats</summary>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=daniel117622&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel117622&layout=compact&theme=tokyonight" alt="Top Languages" />
-  </p>
-</details>
 ---
 
 🛠️ Tech Stack & Tools
