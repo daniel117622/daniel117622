@@ -51,8 +51,8 @@ const daniel117622 = {
 </p><details>
   <summary>Even More Stats</summary>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mohdjariullah&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdjariullah&layout=compact&theme=tokyonight" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=daniel117622&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel117622&layout=compact&theme=tokyonight" alt="Top Languages" />
   </p>
 </details>
 ---
